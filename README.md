@@ -1,5 +1,4 @@
-# Politica-de-privacidade
-Política de Privacidade
+# 🔒 Política de Privacidade
 
 Esta Política de Privacidade descreve como as informações são tratadas ao utilizar este aplicativo.
 
