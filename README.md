@@ -1,49 +1,37 @@
 # 🔒 Política de Privacidade
 
-Esta Política de Privacidade descreve como as informações são tratadas ao utilizar este aplicativo.
+A presente Política de Privacidade tem como objetivo informar, de forma clara e transparente, como as informações são tratadas no uso deste aplicativo.
 
-📌 Coleta de Informações
+1. Coleta de Informações
 
-Este aplicativo não coleta, armazena ou processa dados pessoais ou sensíveis dos usuários.
+Este aplicativo não realiza a coleta de dados pessoais, dados sensíveis ou informações identificáveis dos usuários, conforme definido pela legislação aplicável, incluindo, mas não se limitando, à Lei Geral de Proteção de Dados (LGPD – Lei nº 13.709/2018).
 
-Não são solicitadas informações como:
+Não são coletadas informações como nome, endereço de e-mail, número de telefone, localização, identificadores de dispositivo ou quaisquer outros dados que permitam a identificação do usuário.
 
-Nome
+2. Uso das Informações
 
-Endereço de e-mail
+Considerando que não há coleta de dados, nenhuma informação é utilizada, processada, analisada ou compartilhada, seja para fins comerciais, estatísticos ou publicitários.
 
-Número de telefone
+3. Armazenamento de Dados
 
-Localização
+O aplicativo não utiliza banco de dados, seja local ou remoto, e não armazena informações de qualquer natureza relacionadas aos usuários.
 
-Dados financeiros
+4. Compartilhamento de Dados com Terceiros
 
-Identificadores de dispositivo
+Este aplicativo não compartilha dados com terceiros, bem como não integra serviços externos que realizem coleta, monitoramento ou análise de informações dos usuários, tais como ferramentas de análise, publicidade ou rastreamento.
 
-📊 Uso de Dados
+5. Segurança da Informação
 
-Como não há coleta de dados, nenhuma informação é utilizada, compartilhada ou vendida a terceiros.
+Uma vez que não há coleta ou armazenamento de dados, não existem riscos relacionados ao vazamento, uso indevido ou acesso não autorizado a informações pessoais.
 
-🗄️ Armazenamento de Dados
+6. Privacidade de Crianças e Adolescentes
 
-O aplicativo não utiliza banco de dados, seja local ou remoto, e não armazena informações do usuário.
+Este aplicativo pode ser utilizado por pessoas de todas as idades, pois não coleta, armazena ou processa dados pessoais, inclusive de crianças e adolescentes.
 
-🌐 Serviços de Terceiros
+7. Alterações desta Política de Privacidade
 
-Este aplicativo não integra serviços de terceiros que realizem coleta de dados, como ferramentas de análise, publicidade ou rastreamento.
+Esta Política de Privacidade poderá ser atualizada a qualquer momento, visando manter sua conformidade legal e clareza informacional. Eventuais alterações serão publicadas neste repositório.
 
-🔐 Segurança
+8. Contato
 
-Como não há coleta ou armazenamento de informações, não existem riscos relacionados à exposição de dados pessoais.
-
-👶 Privacidade de Crianças
-
-Este aplicativo é seguro para todas as idades, pois não coleta nenhum tipo de dado pessoal, inclusive de crianças.
-
-🔄 Alterações nesta Política
-
-Esta Política de Privacidade pode ser atualizada ocasionalmente. Qualquer alteração será refletida neste repositório.
-
-📬 Contato
-
-Caso haja dúvidas sobre esta Política de Privacidade, entre em contato através do próprio repositório do GitHub (Issues ou Discussions).
+Em caso de dúvidas, sugestões ou solicitações relacionadas a esta Política de Privacidade, o usuário poderá entrar em contato por meio dos canais disponibilizados neste repositório do GitHub.
